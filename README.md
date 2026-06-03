@@ -1,0 +1,1 @@
+A comprehensive course repository covering high-performance computing from sequential code optimization to GPU acceleration. Topics progress from cache-aware optimization and numerical methods through shared-memory (OpenMP), distributed-memory (MPI), and GPU (CUDA) parallelism, culminating in a parallelized Support Vector Machine classifier.
